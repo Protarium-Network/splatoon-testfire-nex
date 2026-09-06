@@ -1,0 +1,7 @@
+This project is derived from PretendoNetwork/splatoon:
+https://github.com/PretendoNetwork/splatoon
+
+It retains the upstream GNU Affero General Public License v3.0 in LICENSE.
+The local changes configure the public Pretendo NEX stack for the Splatoon
+Global Testfire values recovered from Gambit.rpx and add standalone local
+deployment support and documentation.
