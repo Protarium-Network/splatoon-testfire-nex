@@ -68,3 +68,5 @@ go build ./...
 
 See [PROTOCOL_COVERAGE.md](PROTOCOL_COVERAGE.md) for registered NEX services,
 their RMC IDs, and the interoperability work still requiring a Testfire trace.
+
+_Deployed and maintained as part of the [Protarium Network](https://github.com/Protarium-Network) Wii U online service revival project._
